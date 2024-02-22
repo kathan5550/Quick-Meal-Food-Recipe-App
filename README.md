@@ -34,5 +34,6 @@ This is my API Key which i had developed on the Spoonacular Food API platform. Y
 This is My apikey :1ab20968a21c42f081fce44fd36b1574
 
 # App Visuals
-<img width="301" alt="Screenshot 2024-02-19 at 11 39 13 AM" src="https://github.com/kathan5550/Quick-Meal-Food-Recipe-App/assets/105222761/94813d69-23ef-4164-9f1d-54ee5bddd4f7">   <img width="313" alt="Screenshot 2024-02-19 at 11 24 09 AM" src="https://github.com/kathan5550/Quick-Meal-Food-Recipe-App/assets/105222761/b847ca90-6b2e-4da7-985d-91622044349d">
+<img width="301" alt="Screenshot 2024-02-19 at 11 39 13 AM" src="https://github.com/kathan5550/Quick-Meal-Food-Recipe-App/assets/105222761/94813d69-23ef-4164-9f1d-54ee5bddd4f7">   <img width="313" alt="Screenshot 2024-02-19 at 11 24 09 AM" src="https://github.com/kathan5550/Quick-Meal-Food-Recipe-App/assets/105222761/b847ca90-6b2e-4da7-985d-91622044349d"><img width="281" alt="Screenshot 2024-02-22 at 10 28 34 AM" src="https://github.com/kathan5550/Quick-Meal-Food-Recipe-App/assets/105222761/375ebdeb-b265-47b8-8ff6-2511abaaf2a7">
+
 
